@@ -1,0 +1,2 @@
+TOKEN_TELEGRAM = ""
+ADMIN_ID = ""
